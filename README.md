@@ -3,11 +3,11 @@
 This repository contains a Jupyter notebook that uses machine learning to predict retail spending based on a dataset of consumer behavior. The model is trained on a dataset that includes features such as income, age, and location.
 
 ## Table of Contents
-- [Data](#data)
-- [Model](#model)
-- [Running the Notebook](#running-the-notebook)
-- [Results](#results)
-- [License](#license)
+- Data
+- Model
+- Running the Notebook
+- Results
+- License
 
 ## Data :file_folder:
 
